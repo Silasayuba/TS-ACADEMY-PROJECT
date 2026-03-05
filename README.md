@@ -185,8 +185,8 @@ Repository Structure
 ```
 Customer-Churn-Prediction
 │
-├── Customer_Churn.ipynb
-├── Telco-Customer-Churn.csv
+├── Notebook
+├── Dataset
 ├── README.md
 ```
 
