@@ -195,7 +195,7 @@ Future Improvements
 
 Possible improvements for this project include:
 
-1.Testing additional machine learning models such as:
+1. Testing additional machine learning models such as:
 
   * Random Forest
   * Gradient Boosting
