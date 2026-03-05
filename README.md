@@ -47,8 +47,9 @@ Target Variable
 
 `Churn`
 
-Yes → Customer left the company
-No → Customer stayed
+`Yes → Customer left the company`
+
+`No → Customer stayed`
 
 ---
 
